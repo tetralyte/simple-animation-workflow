@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://sewl26fro0pv"]
 
 [ext_resource type="PackedScene" uid="uid://lds3lwy13xbe" path="res://Models/cube.glb" id="1_gsjio"]
-[ext_resource type="Script" uid="uid://btj36fwxhmkg4" path="res://Models/cube.gd" id="2_gsj67"]
+[ext_resource type="Script" uid="uid://btj36fwxhmkg4" path="res://Scripts/cube.gd" id="2_gsj67"]
 [ext_resource type="AnimationLibrary" uid="uid://dsqigroitlrsx" path="res://Animations/library_animations.res" id="2_mwpjy"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_mwpjy"]
